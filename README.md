@@ -12,7 +12,7 @@ This project is an upgraded version of the previous one. Here one can add, updat
 <ul>
   <li>Collections:
     <ul>
-      <li>ArrayList</li>
+      <li>BufferedReader</li>
       <li>LinkedList</li>
       <li>List Iterator</li>
     </ul>
