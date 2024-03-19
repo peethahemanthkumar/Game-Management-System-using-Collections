@@ -23,6 +23,8 @@ This project is an upgraded version of the previous one. Here one can add, updat
   
   <li>Basic Operations:
     <ul>
+      <li>Method Calling</li>
+      <li>Switch Condition</li>
       <li>String Operations</li>
       <li>Conditional Statements</li>
       <li>Infinite Loops</li>
